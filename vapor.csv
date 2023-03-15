@@ -1,4 +1,0 @@
-#,Temp,Pressure,Specific Volume,Internal Energy,Specific Enthalpy,Specific Entropy,Quality,Phase
-,C,MPa,m3/kg,kJ/kg,kJ/kg,kJ/kg/K,,
-1,187,1.174,0.001137,792.9,794.2,2.207,0,Saturated Liquid
-2,187,1.174,0.1668,2588,2784,6.531,1,Saturated Vapor
