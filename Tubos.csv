@@ -1,4 +1,4 @@
-﻿Nominal [mm];Nominal [inch];OD [mm];OD [inch];WT [mm];WT [inch];Weight [kg/m];Weight [lbs/foot];ID [mm];ID [inch]
+﻿Nominal [mm],Nominal [inch],OD [mm],OD [inch],WT [mm],WT [inch],Weight [kg/m],Weight [lbs/foot],ID [mm],ID [inch]
 65,2 1/2,73,2.875,5.16,0.203,8.63,5.8,62.68,2.469
 80,3    ,88.9,3.5,5.49,0.216,11.29,7.58,77.92,3.068
 90,3 1/2,101.6,4,5.74,0.226,13.57,9.12,90.12,3.548
